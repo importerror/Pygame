@@ -1,1 +1,28 @@
-A Readme file for Pygame
+				README
+*****************************************************************************************
+**************************MEMORY GAME****************************************************
+*****************************************************************************************
+
+This is version 0.1 of memory game has few bugs though or execution and swapping tiles.
+
+DEPENDENCIES:
+
+If you haven't already please install the following dependencies:
+
+    Python 2.7 or more                  (required)
+    pygame module			(required)
+
+DOWNLOAD:
+
+1.Python can be downloaded from http://www.python.org/getit/
+2.pygame module can be installed from http://www.pygame.org/download.shtml
+
+RUNNING THE GAME
+
+Open a terminal window, "cd" into the game directory and run:
+
+    python run_game.py
+
+HOW TO PLAY
+
+This is a simple game of matching same tiles until all tiles are discovered.
