@@ -21,7 +21,7 @@ RUNNING THE GAME
 
 Open a terminal window, "cd" into the game directory and run:
 
-    python run_game.py
+    python myanimation.py
 
 HOW TO PLAY
 
